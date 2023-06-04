@@ -1,0 +1,8 @@
+[[Mutationjll]]
+arch = "aarch64"
+git-tree-sha1 = "6648d63eeec4ffb21783c29aca946be23ce8674c"
+os = "macos"
+
+    [[Mutationjll.download]]
+    sha256 = "8cb8fd7720ed564cfe20406fa98e3e5f346ad1d6ce6b10f2adffcd3bc4dc0292"
+    url = "https://github.com/apey236/Mutation_jll.jl/releases/download/Mutationjll-v1.0.5+0/Mutationjll.v1.0.5.aarch64-apple-darwin.tar.gz"
